@@ -17,7 +17,9 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNevesC&layout=compact" />
 
 
-### CURSOS PARA FAZER SE QUISER 
+
+
+<p>### CURSOS PARA FAZER SE QUISER</p> 
 
 Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
 ![Dev C#](https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png)
