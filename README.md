@@ -18,13 +18,13 @@
 
 Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
 
-<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="800" width="70%">
+<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="400" width="70%">
 
 
 Faça o [!Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
 
-<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-WEB/main/content/00-Logo-GitHub.png" width="800" width="70%">
+<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-WEB/main/content/00-Logo-GitHub.png" width="400" width="70%">
 
 
 ### CONHECIMENT IN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<img align="right" width="100%" width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNevesC&layout=compact" />
+<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNevesC&layout=compact" />
