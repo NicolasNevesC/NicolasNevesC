@@ -1,6 +1,6 @@
 
-
 ### hello my name is Nicolas Neves C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 ![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white (BCS_Nicolasspeed))
 ![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -18,10 +18,12 @@
 
 
 Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
-![Dev C#](https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png)
+
+<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="800" width="70%">
 
 
-Faça o [Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
+Faça o [!Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
+
 [![Dev Web](https://raw.githubusercontent.com/NicolasNevesC/AULAS-WEB/main/content/00-Logo-GitHub.png)]([https://github.com/NicolasNevesC/AULAS-WEB)
 
 ### CONHECIMENT IN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
