@@ -20,7 +20,7 @@
 ### CURSOS PARA FAZER SE QUISER 
 
 Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda a programar do zero.
-![Dev C#](content/logo-dev-cs.png)
+![Dev C#](https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png)
 
 
 Faça o [!Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
