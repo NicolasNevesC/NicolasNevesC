@@ -13,13 +13,5 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### CURSOS PARA FAZER SE QUISER
-
-Faça antes o [Dev c#](https://github.com/NicolasNevesC/AULAS-Csharp)e aprenda a programar do zero.
-<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="400">
-
-
-
-
 ### CONHECIMENT IN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNevesC&layout=compact" />
