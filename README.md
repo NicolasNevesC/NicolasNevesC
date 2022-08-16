@@ -24,5 +24,5 @@ Faça antes o [Dev C#](https://github.com/NicolasNevesC/AULAS-Csharp) e aprenda 
 
 
 Faça o [!Dev Web](https://github.com/NicolasNevesC/AULAS-WEB) e aprenda a criar aplicações para a Web.
-[![Dev Web](content/logo-dev-web.png)]([https://github.com/NicolasNevesC/AULAS-WEB)]
+[![Dev Web](//raw.githubusercontent.com/NicolasNevesC/AULAS-WEB/main/content/00-Logo-GitHub.png)]([https://github.com/NicolasNevesC/AULAS-WEB)]
 
