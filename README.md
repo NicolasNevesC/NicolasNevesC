@@ -16,7 +16,7 @@
 ### CURSOS PARA FAZER SE QUISER
 
 Faça antes o [Dev c#](https://github.com/NicolasNevesC/AULAS-Csharp)e aprenda a programar do zero.
-<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="600"  width="70%">
+<img src="https://raw.githubusercontent.com/NicolasNevesC/AULAS-Csharp/main/aulas-programacao-csharp-master/content/00-logo-github.png" width="400">
 
 
 
