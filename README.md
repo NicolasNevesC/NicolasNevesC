@@ -1,4 +1,5 @@
-### hello my name is Nicolas Neves C <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+ ### hello my name is Nicolas Neves C <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20">
 
 ![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white (BCS_Nicolasspeed))
@@ -13,7 +14,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-### CURSOS PARA FAZER SE QUISER
+### CURSOS PARA FAZER SE QUISER <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="20">
 
 Faça antes o [Dev c#](https://github.com/NicolasNevesC/AULAS-Csharp)e aprenda a programar do zero.
 
@@ -24,3 +25,5 @@ Faça antes o [Dev c#](https://github.com/NicolasNevesC/AULAS-Csharp)e aprenda a
 
 ### CONHECIMENT IN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <img align="center"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasNevesC&layout=compact" />
+
+
