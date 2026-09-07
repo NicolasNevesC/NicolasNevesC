@@ -1,7 +1,7 @@
 ### Hello, my name is Nicolas Neves C <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" />
 
 <p align="left">
-  <a href="https://nicolasnevesc.github.io/Nicolas-portfolio/" target="_blank">
+  <a href="https://nicolasnevesc.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfólio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Pessoal" />
   </a>
   <a href="https://www.linkedin.com/in/nicolas-neves-c" target="_blank">
